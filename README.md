@@ -1,4 +1,4 @@
-USCClassParser
+USC Class Parser
 ==============
 
 Queries a <a href="http://jmvidal.cse.sc.edu/schedule/schedule.csv">csv</a> file containing course information for the University of South Carolina
